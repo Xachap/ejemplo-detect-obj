@@ -1,0 +1,21 @@
+item {
+    id: 1
+    name: 'cabeza_h'
+}
+
+item {
+    id: 2
+    name: 'cabeza_r'
+}
+
+item {
+    id: 3
+    name: 'cuerpo'
+}
+
+item {
+    id: 4
+    name: 'tuerca'
+}
+
+
